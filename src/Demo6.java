@@ -1,4 +1,3 @@
-package com.study.hc.thread.chapter1.thread;
 
 import java.util.concurrent.locks.LockSupport;
 
