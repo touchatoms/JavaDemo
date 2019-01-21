@@ -6,6 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter-1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/encode/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/future" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reflect" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nio" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

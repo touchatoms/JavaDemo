@@ -20,6 +20,7 @@ public class NIOServer {
         while (true) {
             SocketChannel socketChannel = serverSocketChannel.accept(); // 获取新tcp连接通道
             // tcp请求 读取/响应
+            System.out.println(socketChannel);
             if (socketChannel != null) {
                 System.out.println("收到新连接 : " + socketChannel.getRemoteAddress());
                 socketChannel.configureBlocking(false); // 默认是阻塞的,一定要设置为非阻塞
